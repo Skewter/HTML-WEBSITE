@@ -51,19 +51,20 @@ nav img{
     margin: auto;
     }
     .pushable {
-        background: hsl(340deg 100% 32%);
+        background: rgb(201, 206, 46);
         border-radius: 12px;
         border: none;
         padding: 0;
         cursor: pointer;
         outline-offset: 4px;
+        font: bolder;
       }
       .front {
         display: block;
         padding: 12px 42px;
         border-radius: 12px;
         font-size: 1.25rem;
-        background: hsl(345deg 100% 47%);
+        background: rgb(30, 216, 101);
         color: white;
         transform: translateY(-6px);
       }
@@ -104,7 +105,7 @@ nav img{
     font-size: 28px;
 }
 body{
-    background-image: url(webimages/c.jpg);
+    background-image: url(https://lawcorner.in/wp-content/uploads/2020/05/hand-holding-tree-blur-green-nature-eco-earth-day_34152-1961.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
